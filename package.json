@@ -5,7 +5,7 @@
   "homepage": "https://github.com/curiousPark/reactBootCampDistribute",
   "cracoConfig": "config/craco-config-with-custom-name.js",
   "dependencies": {
-    "@cra-express/core": "^4.3.0",
+    "@cra-express/core": "^4.3.2",
     "@craco/craco": "^5.2.1",
     "@types/jest": "24.0.13",
     "@types/node": "12.0.2",
